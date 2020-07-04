@@ -1,0 +1,36 @@
+.intro
+{
+    border: 3px solid #0097A7;
+    border-radius: 8px;
+    padding: 20px 25px;
+}
+
+.intro h4
+{
+    display: inline;
+    margin: 0;
+    color: #0097A7;
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+.intro p
+{
+    margin: 0;
+    display: inline;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.intro p~h4
+{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.intro ol
+{
+    margin: 0;
+    color: firebrick;
+}
